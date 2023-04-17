@@ -2,7 +2,7 @@ import "./home.styles.css";
 
 const Home = () => {
   return (
-    <div>
+    <div className="home-container">
       <h1>Home Page!</h1>
     </div>
   );
